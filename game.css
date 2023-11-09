@@ -110,9 +110,14 @@ body {
 .result-js-style span{
     color: yellow;
     font-size: 30px;
+    margin-left: 20px;
     margin-right: 20px;
 
 }
 .footer-part span{
     color: yellow;
+}
+
+.hilight-nodes{
+    background-color: #ffb6c1 ;
 }
